@@ -8,7 +8,7 @@ JDBC (Java Database Connectivity)
 - Читач може відмінити підписку журналу.
 - Незареєстрований користувач може переглядати журнали, проте не може оформити підписку.<br><br>
 
-Реалiзувати деякi [завдання](https://github.com/AlexeyDolgov/JavaAdvanced_Lesson-02/tree/master/JavaAdvanced_Lesson-02/src/main/java/ua/lviv/lgs/MagazineShop) до проекту:
+Реалiзувати деякi [завдання](https://github.com/AlexeyDolgov/JavaAdvanced_Lesson-02/tree/master/JavaAdvanced_Lesson-02/src/main/java/ua/lviv/lgs/magazineShop) до проекту:
 1. Створити базу даних.
 2. Придумати таблиці і класи, які відповідатимуть даним таблицям.
 3. Створити `DAO` для кожного із придуманих класів.
